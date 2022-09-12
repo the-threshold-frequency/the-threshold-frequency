@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, C++, PHP**
 
-- 📫 How to reach me **preetrajhaldar2002@gmail.com**
+- 📫 reach out to me at **preetrajhaldar2002@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1ycv4F_3tKLVFoeV2gX_6ct57IfLUnsTI?usp=sharing](https://drive.google.com/drive/folders/1ycv4F_3tKLVFoeV2gX_6ct57IfLUnsTI?usp=sharing)
 
