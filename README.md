@@ -11,7 +11,7 @@
 
 - 📫 reach out to me at **preetrajhaldar2002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ycv4F_3tKLVFoeV2gX_6ct57IfLUnsTI?usp=sharing](https://drive.google.com/drive/folders/1ycv4F_3tKLVFoeV2gX_6ct57IfLUnsTI?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/drive/folders/1ycv4F_3tKLVFoeV2gX_6ct57IfLUnsTI?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
