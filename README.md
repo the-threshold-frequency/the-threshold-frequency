@@ -1,6 +1,6 @@
 <h1 align="center">Hola! 👋, Preetraj here</h1>
 <h3 align="center">A passionate Full Stack and Blockchain developer from India. I also like working on AI and IoT.</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CheerySeparateGoldeneye-size_restricted.gif">
+<img align="right" alt="Coding" width="400" src="vector.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-threshold-frequency&label=Profile%20views&color=0e75b6&style=flat" alt="the-threshold-frequency" /> </p>
