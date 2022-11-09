@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-threshold-frequency&label=Profile%20views&color=0e75b6&style=flat" alt="the-threshold-frequency" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Ethers.js**
 
 - 💬 Ask me about **react, C++, PHP**
 
